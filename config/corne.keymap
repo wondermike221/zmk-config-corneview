@@ -15,7 +15,7 @@
         gaming-layer-toggle {
             bindings = <&tog 3>;
             key-positions = <37 40>;
-            layers = <0>;
+            layers = <0 3 2 1>;
             slow-release;
         };
     };
